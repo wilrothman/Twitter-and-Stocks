@@ -10,4 +10,6 @@ Rohan Ganguli (rohanganguli@berkeley.edu)
 
 David Li (jiamingdavid@berkeley.edu)
 
+Rachel Park (trrprk@berkeley.edu)
+
 Ivy Sim (ivy_sim@berkeley.edu)
