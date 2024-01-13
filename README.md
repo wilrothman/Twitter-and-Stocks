@@ -1,5 +1,5 @@
 # Twitter-and-Stocks
-A data science presentation I did for a UC Berkeley class my freshman year of undergrad, Data 198: Introduction to Real World Data Science DeCal
+This is a data science project I did during my Spring 2023 semester at UC Berkeley. It was overseen by the [Data Science Society](https://dssberkeley.com/) and features an analaysis of Apple stock (NASDAQ: AAPL) in relation to their ![equation](https://latex.codecogs.com/svg.image?\mathbb{X}) (formerly Twitter) stock. 
 
 # Contributers
 Me (Wil Rothman, wilrothman@berkeley.edu)
